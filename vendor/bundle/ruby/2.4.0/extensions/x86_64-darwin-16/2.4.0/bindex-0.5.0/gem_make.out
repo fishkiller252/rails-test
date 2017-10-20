@@ -1,0 +1,15 @@
+current directory: /Users/fishkiller/Documents/programming/Repository/rails/rails-test/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20171021-51470-160xld2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/fishkiller/Documents/programming/Repository/rails/rails-test/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/fishkiller/Documents/programming/Repository/rails/rails-test/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/fishkiller/Documents/programming/Repository/rails/rails-test/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20171021-51470-1nh95d8/bindex
